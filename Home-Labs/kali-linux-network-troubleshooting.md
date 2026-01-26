@@ -24,3 +24,6 @@ After correcting the network interface configuration and restarting the networki
 
 ## What I Learned
 This lab reinforced the importance of understanding network interface configuration and methodical troubleshooting when resolving connectivity issues in Linux environments.
+## Related Troubleshooting Log
+A detailed troubleshooting breakdown of this issue can be found here:
+../Troubleshooting-Logs/kali-linux-network-connectivity-issue.md
