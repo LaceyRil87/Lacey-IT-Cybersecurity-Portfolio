@@ -24,3 +24,4 @@ Notes and reflections on concepts, tools, commands, and technologies I am learni
 - Networking fundamentals
 - Troubleshooting and documentation
 # Lacey-IT-Cybersecurity-Portfolio
+_Last updated: January 2026_
