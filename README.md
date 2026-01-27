@@ -25,3 +25,4 @@ Notes and reflections on concepts, tools, commands, and technologies I am learni
 - Troubleshooting and documentation
 # Lacey-IT-Cybersecurity-Portfolio
 _Last updated: January 2026_
+Practice edit on January 26, 2026
