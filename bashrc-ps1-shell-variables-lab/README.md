@@ -25,12 +25,12 @@ Example:
 ```bash
 export EDITOR=vim
 echo "$EDITOR"
-
+```
 A shell variable exists only in the current shell session.
 
 Example:
-
+```bash
 file=tmp.zdkei083
 echo "$file"
-
+```
 Last updated: February 5, 2026
